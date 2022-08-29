@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Protobuf Include="protocol.proto" />
+    <Protobuf Include="*.proto" />
   </ItemGroup>
 
 </Project>
